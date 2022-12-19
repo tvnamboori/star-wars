@@ -1,0 +1,34 @@
+.filmContainer {
+  box-shadow: #4285f4 1px 0px 5px 1px;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 1.25rem;
+  .content {
+    padding: 0.625rem;
+    .title {
+      font-size: 1.375rem;
+      margin-bottom: 1rem;
+    }
+    .director {
+      line-height: 5px;
+      color: #737373;
+      font-size: 0.875rem;
+    }
+    .producer {
+      line-height: 5px;
+      color: #737373;
+      font-size: 0.875rem;
+    }
+    .episode {
+      line-height: 5px;
+      color: #737373;
+      font-size: 0.875rem;
+    }
+    .filmDetails-para {
+      font-size: 0.875rem;
+    }
+    ul li {
+      font-size: 0.875rem;
+    }
+  }
+}
